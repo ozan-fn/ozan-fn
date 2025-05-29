@@ -1,10 +1,10 @@
 <!-- Banner Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/S8hT5ednhw9IesuIXO/giphy.gif" width="100%" alt="Mono Mono Weekend GIF" />
+  <img src="https://media.giphy.com/media/EvN1J6NbUGgFYsx6tn/giphy.gif" width="100%" alt="Mono Mono Weekend GIF" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+Saya+Akhmad+Fauzan;ozan-fn+on+GitHub;Fullstack+Dev+%2F+Linux+%2F+Anime+Fanboy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+Saya+Akhmad+Fauzan;ozan-fn+on+GitHub;Fullstack+Dev+%2F+Linux+%2F+Anime+Fanboy&color=4A90E2" alt="Typing SVG" />
 </h1>
 
 ---
