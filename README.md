@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Tentang Saya
 
-Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari Indonesia 🇮🇩 dengan passion besar di dunia anime & teknologi open-source.
+Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari Indonesia 🇮🇩.
 
 🔭 Fokus membangun aplikasi web modern dengan performa tinggi dan desain interaktif  
 🎯 Aktif menggunakan teknologi: **React, Laravel, Docker, Linux, dan API**  
