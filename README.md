@@ -15,7 +15,6 @@ Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari
 
 🔭 Fokus membangun aplikasi web modern dengan performa tinggi dan desain interaktif  
 🎯 Aktif menggunakan teknologi: **React, Laravel, Docker, Linux, dan API**  
-🌸 Filosofi: _"Koding bukan sekadar kerja, tapi seni membangun dunia digital."_
 
 ---
 
