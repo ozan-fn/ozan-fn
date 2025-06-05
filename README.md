@@ -21,7 +21,7 @@ Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari
 ## ⚙️ Skill Set
 
 ### 🌐 Frontend  
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -32,7 +32,7 @@ Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari
 </p>
 
 ### 🖥 Backend  
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
@@ -43,7 +43,7 @@ Halo! Saya **Akhmad Fauzan** (a.k.a `ozan-fn`), seorang fullstack developer dari
 </p>
 
 ### 🐧 DevOps & Linux  
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" />
