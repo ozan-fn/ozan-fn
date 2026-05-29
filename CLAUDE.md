@@ -64,4 +64,4 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 
-Never modify manifest/config files manually. Just give me the CLI command to add the package (e.g., npm i, cargo add, go get)."
+Never edit manifest files (Cargo.toml/package.json/composer.json/go.mod) manually; always use CLI commands (e.g., cargo add, npm i, composer require, go get).
